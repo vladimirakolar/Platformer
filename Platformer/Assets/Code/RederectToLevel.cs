@@ -5,12 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class RederectToLevel : MonoBehaviour
 {
-    public static int rederecToLevel = 1;
+    public static int rederecToLevel = 3;
 
 
     private void Update()
     {
-        if (rederecToLevel == 1)
+        if (rederecToLevel == 3)
         {
             SceneManager.LoadScene(rederecToLevel);
         }
