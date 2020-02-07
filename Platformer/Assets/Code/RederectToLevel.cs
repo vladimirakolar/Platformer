@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class RederectToLevel : MonoBehaviour
 {
-    public static int rederecToLevel = 3;
+    public static int rederecToLevel;
 
 
     private void Update()
