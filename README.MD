@@ -7,14 +7,11 @@ The game can be played on the following links :
 This is a simple platform game, that is looking really cool. This game is developed with a few pre-made assets and coded in C#. 
 Started from absolute beginner to a moderate level of knowledge and by the end, we got a fully playable platform game with lots of fun.
 
-## Tools and technologes ##
-### Technologes ###
+## Tools and technologies ##
 * *Unity*
 * *Photoshop*
 * *3DS Max*
 * *Visual Studio*
-
-### Tools ###
 * *3D space*
 * *Demo*
 * *3D animation*
